@@ -83,6 +83,12 @@ _Tools useful for developing in Gno._
 - [:GnoFileTest command for vim](https://gist.github.com/grepsuzette/66f5cfaccc1a919c67f52bd7b31a3b09) - `:GnoFileTest` snippet for vim
 - [gno.nvim](https://github.com/x1unix/gno.nvim) - Gno language support for NeoVim.
 
+## Monitoring
+
+_Tools useful for monitoring in Gno._
+
+- [Gnoland_validator_signing](https://github.com/RaulBernal/Gnoland_validator_monitoring) - Is your Validator signing blocks right now? Get alerts via Telegram if it isn't.
+
 ## Tutorials, Presentations, Resources
 
 _Resources to help you understand how to get around gno.land and use Gno._
