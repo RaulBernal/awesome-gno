@@ -87,7 +87,7 @@ _Tools useful for developing in Gno._
 
 _Tools useful for monitoring in Gno._
 
-- [Gnoland_validator_signing](https://github.com/RaulBernal/Gnoland_validator_monitoring) - Is your Validator signing blocks right now? Get alerts via Telegram if it isn't.
+- [GnoWatch:_a validator_signing tool](https://github.com/RaulBernal/GnoWatch) - Is your Validator signing blocks right now? Get alerts via Telegram if it isn't.
 
 ## Tutorials, Presentations, Resources
 
